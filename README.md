@@ -18,7 +18,7 @@ Send a image of a unsolved Sudoku puzzle as a tweet to [@easySudoku](https://twi
 
 4. On the **Keys and Access Tokens** tab, take note of the `consumer key`, `consumer secret`, `access token` and `access token secret`.
 
-##Run the Bot
+## Setup & Run
 
 You have to follow these steps in the right order. 
 
@@ -41,7 +41,7 @@ You have to follow these steps in the right order.
     export CURRENT_USER_ID={INSERT_USER_ID}
     ```
 
-### Deploy the Bot
+### Deploy Bot
 
 1. Start the flask server
 
